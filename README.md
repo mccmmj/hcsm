@@ -1,2 +1,2 @@
 # hcsm
-AI enhance home care management tools
+AI enhanced home care management tools
